@@ -61,7 +61,7 @@
 	
 	
 	//1.3.24
-public static void removeAfter(LinkedList list, Node node) {
+	public static void removeAfter(LinkedList list, Node node) {
 		Node first = list.getFirst();
 		if (node == first) {
 			first.next = first.next.next;
