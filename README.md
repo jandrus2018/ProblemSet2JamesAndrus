@@ -1,6 +1,7 @@
 # ProblemSet2JamesAndrus
 
-// 1.3.19
+
+	// 1.3.19
 	public void removeLast() {
 		if (isEmpty()) {
 		} else if (N == 1) {
